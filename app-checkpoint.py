@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Subrat Tripathi 
-"""
+
 
 import os
 import pickle
